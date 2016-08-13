@@ -17945,5 +17945,7 @@
 .header-container.type3.sticky-header .menu-icon {width: auto;padding-left: 5px;padding-right: 5px;}
 .header-container.sticky-header.type3 .header>.logo {display: none;}
 .header-container.type3.sticky-header .menu-icon > a > span { display:none; width:15%; }
+.icon-left-open {color: #fff !important;}
+.icon-right-open {color: #fff !important;}
 /* Stiky header mobile css end */
 /* Mon0s1f css end */
